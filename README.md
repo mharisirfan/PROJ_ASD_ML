@@ -1,6 +1,8 @@
 # PROJ_ASD_ML
 **ML Project: Autism Spectrum Detection from Facial Images**
 
+*University of Tartu — MTAT.03.227 Machine Learning*
+
 ## Overview
 This project develops machine learning models to detect Autism Spectrum Disorder (ASD) from facial images using transfer learning with state-of-the-art deep learning architectures.
 
